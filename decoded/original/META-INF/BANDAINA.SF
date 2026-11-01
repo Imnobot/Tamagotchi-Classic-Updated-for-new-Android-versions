@@ -1,0 +1,968 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: X1U4Ci7KU4vocmITjip2rmSyxZ4=
+SHA1-Digest-Manifest: IPutQqmYR+xHVyvsmGWNprjVYXU=
+Created-By: 1.8.0_20 (Oracle Corporation)
+
+Name: assets/body_00008.tgd
+SHA1-Digest: gLiMgb0yZbaEXW/cgISZr9VcOXs=
+
+Name: assets/details_name_00003.tgd
+SHA1-Digest: 8CSnVuWuTl+JJ0L8GFMEPln0t9k=
+
+Name: assets/details_name_10016.tgd
+SHA1-Digest: 7QIk+MBwZcoxF65zuZSAyjJ5Hjo=
+
+Name: assets/gallery_imabg_00009.tgd
+SHA1-Digest: 7z6zhSp4995UN332+kdAO0kogN0=
+
+Name: res/layout/sample_game_landscape.xml
+SHA1-Digest: chZwNUpGyEtMEMBZowty+Sz6DTs=
+
+Name: assets/details_name_10008.tgd
+SHA1-Digest: Wn8PvBnUk7v6+ULF7d3NU2wtA6Y=
+
+Name: assets/menu_icon_00002.tgd
+SHA1-Digest: 9ENYp9IbQCCfx6EYr4/dfHf8EpE=
+
+Name: assets/help_common_panel_00000.tgd
+SHA1-Digest: TA4OB3dpQlAJSBeuegtAxRO7SlU=
+
+Name: assets/details_name_10024.tgd
+SHA1-Digest: cBmfLCf0OXWobA9GlfLPdJa8TXc=
+
+Name: assets/tutorial_00006.tgd
+SHA1-Digest: Rwc84/N0ALLgZBBd0ys79nXnzYM=
+
+Name: assets/help_bg_00000.tgd
+SHA1-Digest: 7lOcUKqTyoeHs5MMhFLNBDtx8I8=
+
+Name: assets/faq_title_00000.tgd
+SHA1-Digest: OzoVVeQhLr/ZnSZ7328s+ssLQRM=
+
+Name: assets/details_number_00002.tgd
+SHA1-Digest: y6ptVGols4gVAOn37GAnPW+0gQU=
+
+Name: assets/ima_bg_00009.tgd
+SHA1-Digest: k6TWZR2Z8JFC8yRN56jjajNtRbs=
+
+Name: assets/tc_faq_btn.csv
+SHA1-Digest: uX0uWs3hfQphnh5FCkU1iN179nc=
+
+Name: assets/casing_dialog_00000.tgd
+SHA1-Digest: CkrftqMgyQn0BtVsWwK7rtUVzQw=
+
+Name: assets/ima_bg_00010.tgd
+SHA1-Digest: ObeaIz/8lPFu+tX8pDoELrkgWMw=
+
+Name: assets/details_Chara_00000.tgd
+SHA1-Digest: rSBdmCK2DayY4D0Oe72g7szl0zs=
+
+Name: assets/sound_se/henshin
+SHA1-Digest: HiEQOpXH02PKlYF0cEKkz+OUlR4=
+
+Name: assets/tutorial_title_00000.tgd
+SHA1-Digest: Vsnk2Gz4ZjF14bQ8WRbkD64osXQ=
+
+Name: assets/body_00001.tgd
+SHA1-Digest: ONSriibamkGGZCtyYUYa3QMCVjc=
+
+Name: assets/help_common_panel_back.tgd
+SHA1-Digest: zJdr26jVdrvTkIq8VvO9BPNXEA0=
+
+Name: assets/help_botan_00000.tgd
+SHA1-Digest: rV0iNMYsnAwynBsuYQy/r6+HeUg=
+
+Name: assets/help_title_00000.tgd
+SHA1-Digest: YIHlN/s4u0rX6X46r60hHA1d+wY=
+
+Name: assets/manual_00003.tgd
+SHA1-Digest: 6A+fBOZs+pl4wpzq4wLKaP+K3t4=
+
+Name: assets/seg_icon_00003.tgd
+SHA1-Digest: EPcllLhlOyF6FNlwIodTmR53rSg=
+
+Name: assets/reset_dialog_00000.tgd
+SHA1-Digest: JIE9Urvs0PwxdmFjoXPnsAmmrGM=
+
+Name: assets/body_button_00001.tgd
+SHA1-Digest: HgvmnrZbBmtfnneGrGKRcnAjRJs=
+
+Name: assets/tc_library_top_btn.csv
+SHA1-Digest: LfzoN5HYR5H+9JezXlhl5tqaI18=
+
+Name: resources.arsc
+SHA1-Digest: 4sw6Q1R2tOisBEdxPDRu75ueG7g=
+
+Name: assets/gallery_imabg_00013.tgd
+SHA1-Digest: K548vL2cCgJsa8iaidC5d2kOn08=
+
+Name: assets/details_name_10001.tgd
+SHA1-Digest: 5gP17ag/zPOeedaO7ypioBW0zR0=
+
+Name: assets/details_botan_00000.tgd
+SHA1-Digest: Qe6F4gWeswyNQzWPvSvmm9t2xag=
+
+Name: assets/option_dialog_00000.tgd
+SHA1-Digest: abzkZfRVTLIbhW9op3g8yTY49T8=
+
+Name: assets/ima_bg_00005.tgd
+SHA1-Digest: /yJ6YPGl5fKKHk1slrBrMDycGJs=
+
+Name: assets/back_00001.tgd
+SHA1-Digest: Vf2NkkOF/Mxj8D6C3rcByybM9Kk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: jUO7XjjskSLpO5tmDBuj842qzvo=
+
+Name: assets/details_Chara_00007.tgd
+SHA1-Digest: N2RcqALrsqh1fF1efUU3mmfX81M=
+
+Name: assets/faq.css
+SHA1-Digest: uJ0Msdut5mYm32eDD+QoY6IJHQM=
+
+Name: assets/ctc_char02_00.tgd
+SHA1-Digest: Bele10VipVJzBhonjQSeoMweiGw=
+
+Name: assets/body_00012.tgd
+SHA1-Digest: NsxTanrAn7mHWaKFPacx1Kzngz8=
+
+Name: assets/details_name_10020.tgd
+SHA1-Digest: Rpk4YX/04SSi7ktcrwL4BF7Cu7o=
+
+Name: assets/tc_library_pageselLR_btn.csv
+SHA1-Digest: /1oXp9eEo+hGuRLsoRTs7DtZSCs=
+
+Name: assets/details_name_00007.tgd
+SHA1-Digest: LeJEKJyjvZKmN3VOv/4GFTM2cos=
+
+Name: assets/gallery_imabg_00005.tgd
+SHA1-Digest: PKnEkVHqoJWsDzGIPo93CGq62KI=
+
+Name: assets/gallery_t_body_00012.tgd
+SHA1-Digest: BtzYh8OIJk0h7zr8+39U/Yg0vXw=
+
+Name: assets/gallery_total_00000.tgd
+SHA1-Digest: qCcKOZp0E5LiVde2aHX9M7tY70k=
+
+Name: assets/tc_library_tamadetail_btn.csv
+SHA1-Digest: +YBknv0Tkl7O5hKsc0O+PsTuqCs=
+
+Name: assets/ctc_char06_00.tgd
+SHA1-Digest: 1TzqzS53s9TZ9pQoS+O44oCsedI=
+
+Name: assets/gallery_imabg_00014.tgd
+SHA1-Digest: vRNRybsye0Lx8cdj2JxIHBN/dl0=
+
+Name: assets/details_name_00000.tgd
+SHA1-Digest: mmSDkmVRmD52jzxv0c9V3mbiUXc=
+
+Name: assets/Tama2Movie_rect_c1.bin
+SHA1-Digest: fvT2elLiOClTeIYadUH5doLP3uw=
+
+Name: assets/body_00004.tgd
+SHA1-Digest: 3umYYRg0ts7rsIVTi/nJJEKweZ8=
+
+Name: assets/ima_bg_00014.tgd
+SHA1-Digest: QLhpoHReKwVgI+4nwXMycHqUn1o=
+
+Name: assets/css/hr.png
+SHA1-Digest: aFZ6P6GcG0Lqyq93mtsCu9VHQME=
+
+Name: assets/Tama2Movie_rect_c.bin
+SHA1-Digest: hkuoLHbcnFLZJgNB7Yx2aEvYsWc=
+
+Name: assets/css/h2.png
+SHA1-Digest: oM6jpSc7DPFhOASV4sq9YpqIPcc=
+
+Name: assets/tutorial_00003.tgd
+SHA1-Digest: 04qKfKC7SsUU7RFRQm4v7cB6yxA=
+
+Name: assets/seg_00002.tgd
+SHA1-Digest: 9GTnMo5UUCxIMq4rlKWqZgaYmTI=
+
+Name: assets/details_name_10005.tgd
+SHA1-Digest: JU/dCW7+jN40NzXj/xGlA0txOR4=
+
+Name: assets/seg_icon_00007.tgd
+SHA1-Digest: 0ettEnxRFod9FH2Ms6Pg1Bi2Nzo=
+
+Name: assets/manual_00006.tgd
+SHA1-Digest: luQAb5zOwao3Uld5h044rv9nBzw=
+
+Name: assets/Default@2x.tgd
+SHA1-Digest: Pd1yLTnSFihFScvp9tCQWax7lgA=
+
+Name: assets/gallery_t_body_00001.tgd
+SHA1-Digest: ne6oRNAYQ2I8C9amdganW9GGhQ0=
+
+Name: assets/sound_se/tanjou
+SHA1-Digest: XyPjkr/FxvkZht2k4KHM29UlgaE=
+
+Name: assets/seg_dialog_00000.tgd
+SHA1-Digest: 9Tf2JTrveP8Ok72CEdNpbW4lScQ=
+
+Name: assets/tc_common_icon_btn.csv
+SHA1-Digest: Wnzp4Keex1aV5q0bw2Hn3+e5kIE=
+
+Name: assets/body_button_00005.tgd
+SHA1-Digest: NdVV7nJ0+8QcT7cQwyT7CCf1rag=
+
+Name: assets/ctc_char01_01.tgd
+SHA1-Digest: baMLKJDBXciNaDeMe8iGmeIL3G8=
+
+Name: assets/gallery_t_body_00008.tgd
+SHA1-Digest: lkvgye1oAqZi1AbOnUfM+pi5JTg=
+
+Name: assets/details_Chara_00003.tgd
+SHA1-Digest: sT7nIcl8oOdluyY6jKeG89NKdZU=
+
+Name: assets/dialog_botan_00000.tgd
+SHA1-Digest: GtkJ6Nipfl1XhHF9hmPsLdtRWOE=
+
+Name: assets/play_dialog_00000.tgd
+SHA1-Digest: KySuq2UKWj+Uky3pU04z+DtQ7gE=
+
+Name: assets/Tama2Movie_rect.bin
+SHA1-Digest: xB75Y/n02KjvvjUcHD7/jUGtNqg=
+
+Name: assets/gallery_t_body_00009.tgd
+SHA1-Digest: jxee965zeFRe/wMm5wJ+8xLTC6U=
+
+Name: assets/tc_library_bodysel_back_btn.csv
+SHA1-Digest: qT0m0/AUxqfYozCoA5kFe/1oNaQ=
+
+Name: assets/manual_00004.tgd
+SHA1-Digest: KF3kgzOPFm3VFmQN+nI1L6cXsaI=
+
+Name: assets/sound_bgm/imadokiminigame
+SHA1-Digest: wl6AgBVagEiIUNgZZoyRe7aNKS8=
+
+Name: assets/ctc_t1a_1.tgd
+SHA1-Digest: 2jH7jN+yvFpE0Vu5h584Xh9XQDs=
+
+Name: assets/ima_bg_00018.tgd
+SHA1-Digest: XFmSrchbEB9Z/22y7lH+W7FYMEg=
+
+Name: assets/tc_game_ima_food_dialog_btn.csv
+SHA1-Digest: qbDrIDRXExJMW6yITZ+YiMfwwyM=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: V5Yho7Ys3DAPqRZjeO82L+wyzAI=
+
+Name: assets/body_button_00012.tgd
+SHA1-Digest: bPWod1VcroeH6zc4N7gaoqWpMCY=
+
+Name: assets/Tama2Movie_texture_c.tgd
+SHA1-Digest: fawtevju5+VTqLyGACTnOF76pKs=
+
+Name: assets/details_Chara_00011.tgd
+SHA1-Digest: Ay1JP3aNdeTBt2JU4VmCYdtjsWk=
+
+Name: assets/sound_se/gameopen
+SHA1-Digest: Dbczb0lJLCKRKNDDIeSHNfxmkNA=
+
+Name: assets/line_00000.tgd
+SHA1-Digest: Zll6kjgREoBKXmxR+CCrIzWp0lk=
+
+Name: assets/tc_logo_str.csv
+SHA1-Digest: xVtqlROcUEy2LFN3hQm4uT8x6wM=
+
+Name: assets/bg_00001.tgd
+SHA1-Digest: 62JgFKTAHiOC988f05rsytu//0M=
+
+Name: assets/ima_bg_00001.tgd
+SHA1-Digest: k/prtkUz1FZbtAzxwVhcXkTUUh0=
+
+Name: assets/menu_icon_00003.tgd
+SHA1-Digest: oc1LibsW/hfQm76hw+oR7mNQ+vA=
+
+Name: assets/font.tgd
+SHA1-Digest: mj+dzbRnlGijdmLvA9MWKzpGRxA=
+
+Name: assets/gallery_t_body_00010.tgd
+SHA1-Digest: UtO6mfO2rycg4Sp/USdjSGziZv0=
+
+Name: assets/seg_icon_00002.tgd
+SHA1-Digest: fGkrIu7AWcNIpkQOk16cT6ccMTQ=
+
+Name: assets/details_number_00003.tgd
+SHA1-Digest: ppjjVEHK9nJTi6bAZPkYW/3/+7M=
+
+Name: assets/body_button_00002.tgd
+SHA1-Digest: QllXT/9Xb2dDz/9F38aIskekxI0=
+
+Name: assets/tc_help_with_agreement_btn.csv
+SHA1-Digest: Fjin4P+t4xMVfFRUScb6hAIZn0Y=
+
+Name: assets/css/style.css
+SHA1-Digest: nOgJbu9dCGtsQ7ZAlet7uFbA2s8=
+
+Name: assets/details_name_10000.tgd
+SHA1-Digest: zQEaJBaXqxsayeTj5HJ5Vs5uvjA=
+
+Name: assets/tc_howtoplay_btn.csv
+SHA1-Digest: F5DNdS6hpC5K9EhKsR/rrxhbk9Q=
+
+Name: assets/details_name_10009.tgd
+SHA1-Digest: h8tNX8Jt3RuvgGN9rachC/Osezg=
+
+Name: assets/body_00002.tgd
+SHA1-Digest: AD2f3VhQnacCZRtItuHXPErVJDA=
+
+Name: assets/tutorial_00009.tgd
+SHA1-Digest: wRQ68yDWdpkRDHdAzXeIeRso9PE=
+
+Name: assets/details_name_10015.tgd
+SHA1-Digest: 7pb1Jo1JgcJVxq2m85m+kad8NTI=
+
+Name: assets/gallery_imabg_00008.tgd
+SHA1-Digest: iSDv3JI2jN3Dq7kW08JuyHA4uVs=
+
+Name: assets/gallery_t_body_00005.tgd
+SHA1-Digest: h4j79DBQgAt5f0yWGPg623CMfqA=
+
+Name: lib/armeabi/libAndroidGame001JNI.so
+SHA1-Digest: EaegIrIG2t/Bk9TccnV0z5wyvAE=
+
+Name: assets/details_Chara_00008.tgd
+SHA1-Digest: KreHURLrsiW0X6iHsGb1IoRPYcU=
+
+Name: assets/details_star_00000.tgd
+SHA1-Digest: bRBiG+SyfkTe1u6nv50mwzCDBbM=
+
+Name: assets/tc_game_ima_light_dialog_btn.csv
+SHA1-Digest: Qjq2zLdwXfeyE5i/8ofoiRpu1J8=
+
+Name: assets/dialog_agreementbotan_00000.tgd
+SHA1-Digest: zSYC1bGz3R1uwRBNDTxGMpPCbnY=
+
+Name: assets/Tama2Movie_animdata_c.body
+SHA1-Digest: 4jOTYKTsMINfcnyM2Sz5Ax9cmu0=
+
+Name: assets/details_name_00006.tgd
+SHA1-Digest: TmDPvWaY/UbrfJ1GVsk9l9WE7J8=
+
+Name: assets/manual_00009.tgd
+SHA1-Digest: hejyNaK7y180Hgc3OnF0XKUMW8Q=
+
+Name: assets/details_panel_00000.tgd
+SHA1-Digest: ZzX4FJ0OxvJaiPW+PExGIz+/dG8=
+
+Name: assets/gallery_t_body_00004.tgd
+SHA1-Digest: VZdOkez3Kq4O9hxjL7cogstWK8s=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: d6AqOJ6Z+1gr5ONy0KWVuOaL4sY=
+
+Name: assets/Tama2Movie_rect_c0.bin
+SHA1-Digest: U4gkoYSAyV8rEHyEnAi8GgCE0S8=
+
+Name: assets/body_00003.tgd
+SHA1-Digest: +Dr6uUoKyjAjcpKAxi8aLK02bts=
+
+Name: assets/css/bg_main.png
+SHA1-Digest: b4i7G33WSIsDQ/VNXT4y3BO1sYM=
+
+Name: assets/manual_00000.tgd
+SHA1-Digest: 3ghp+dcy0GU8j9bvzt4zJ+8CvX8=
+
+Name: assets/ctc_char01_00.tgd
+SHA1-Digest: h5+fwsoMU4uqbCeWlywYRuk2C54=
+
+Name: assets/ima_bg_00013.tgd
+SHA1-Digest: 8xQaHVhNjP5l4TOlkREi75SeG7Y=
+
+Name: assets/tc_game_ima_btn.csv
+SHA1-Digest: fz1LkwSvgBGfWRwJlqBHUcX+7fs=
+
+Name: assets/details_botan_00001.tgd
+SHA1-Digest: PaDqcRLEjnClPBUpvEpEl0qp4Ws=
+
+Name: assets/Tama2Movie_animdata.body
+SHA1-Digest: DPsinXK8EvQbEsw8q56H0SkzJnI=
+
+Name: assets/details_name_10021.tgd
+SHA1-Digest: Ts1EZsaLLDQb5wO9W2uoPulfj0Q=
+
+Name: assets/ctc_char04_00.tgd
+SHA1-Digest: R+KM3n4mBMucNcheOxtW1mOIEkY=
+
+Name: assets/bng_agreement_1_and.html
+SHA1-Digest: JgLpYp4yyQBzpgUmpHgmavsiMYY=
+
+Name: assets/details_name_10004.tgd
+SHA1-Digest: alHUw1FnU+mlDSh18ixK1/56xos=
+
+Name: assets/seg_icon_00006.tgd
+SHA1-Digest: JkVA2fIYmAyKoBfAEfk0VdrFBgA=
+
+Name: assets/ima_bg_00006.tgd
+SHA1-Digest: mDy58f2jva4BwHCLW+44LXB1LBY=
+
+Name: assets/addfree_dialog_0000.tgd
+SHA1-Digest: Zfv3+JAh7yYLloSPHr/OsPo+tuk=
+
+Name: assets/gallery_t_body_00011.tgd
+SHA1-Digest: bg2d1LJJBBbyDMzwUOYlYiXnsG0=
+
+Name: assets/tc_option_dialog_btn.csv
+SHA1-Digest: r0ug56I5vZzUms/yCqPSj2JljFc=
+
+Name: assets/gallery_imabg_00015.tgd
+SHA1-Digest: aaRSsVu35PlGYP47gPJkwp+eb9U=
+
+Name: assets/sound_bgm/gameplay
+SHA1-Digest: dCchmKWfaoHwhrSVaA1CNgep+yY=
+
+Name: assets/details_name_00001.tgd
+SHA1-Digest: pRIt9KGo4H3wkPO3j30cuPu+vC4=
+
+Name: assets/gallery_imabg_00010.tgd
+SHA1-Digest: lmAFI7Li72L+LbwVuPhpJNyayTY=
+
+Name: assets/details_name_10019.tgd
+SHA1-Digest: jcNGAzw1p2g0k2HCogDXogFb9JU=
+
+Name: assets/ima_bg_00002.tgd
+SHA1-Digest: uFZ0ywe4vU4kU2I50pU4BjFRm90=
+
+Name: assets/Tama2Movie_animdata.head
+SHA1-Digest: 1EfxkO6rzHaBtx/81kwZlW8e7iU=
+
+Name: assets/body_button_00006.tgd
+SHA1-Digest: BM9uuigyWFPG5mgfOxhLxWMxN4Y=
+
+Name: assets/wallpaper_dialog_00000.tgd
+SHA1-Digest: +nVC3LeFTVZRw2T5Ye1Sx8A2WwM=
+
+Name: assets/tutorial_00004.tgd
+SHA1-Digest: WXiW5hBCO1K+xeiHNar2muuZ9c4=
+
+Name: assets/details_name_10010.tgd
+SHA1-Digest: AHc5N+ZykDZiC4op/KrwfYj0ows=
+
+Name: assets/ima_bg_00017.tgd
+SHA1-Digest: g2IujrgjX0/RMLZuvvYfuWTYSXU=
+
+Name: assets/body_00007.tgd
+SHA1-Digest: fh6pkm2CFqcguy1cNMVzcrhp2Pw=
+
+Name: assets/details_Chara_00004.tgd
+SHA1-Digest: fIeZqypJ1QZmizttMHRHVatHY94=
+
+Name: assets/manual_00011.tgd
+SHA1-Digest: LSOu8Ms4e9VP+re9BHHmcNkDyog=
+
+Name: assets/Tama2Movie_texture.tgd
+SHA1-Digest: ryOHaFVZYh1BNhamhD3zRft+2HI=
+
+Name: assets/tc_title_btn.csv
+SHA1-Digest: NcAgmytRdKr3+U2eF11ZLJljRVM=
+
+Name: assets/tc_game_reset_dialog_btn.csv
+SHA1-Digest: 2cE5uQx1SOiFXo4kfWeTrA2WCPo=
+
+Name: assets/gallery_t_botan_00000.tgd
+SHA1-Digest: bQ8wWpvsjtNaI/Isve0lXvlkIlA=
+
+Name: assets/ctc_t1b_2.tgd
+SHA1-Digest: GKwyQfpY6kmf9IhfjYhM6R0XY3Q=
+
+Name: assets/gallery_t_body_00000.tgd
+SHA1-Digest: qNrWPA55KAF8o2arLrHuMNbZi4w=
+
+Name: assets/gallery_imabg_00004.tgd
+SHA1-Digest: DaHKi4gQBTU1FPPJZ5yy/LIBusc=
+
+Name: assets/ima_bg_00000.tgd
+SHA1-Digest: 18RBnoLHPXOnWm0bv9Sy9zKUcqI=
+
+Name: assets/details_number_00000.tgd
+SHA1-Digest: ADNxDbIowL0a5l03TWfvNL5ts5M=
+
+Name: assets/gallery_t_botan_00001.tgd
+SHA1-Digest: xyszZvtpt9df+p9QB/Qk9Inex2E=
+
+Name: assets/details_Chara_00002.tgd
+SHA1-Digest: 8sQW6FCa/ImwgvNE4lHEcUynE2I=
+
+Name: assets/help_dialog_00000.tgd
+SHA1-Digest: zOejnlR2UcUrJJ/bzKo91rDlJ/Q=
+
+Name: assets/agreement.css
+SHA1-Digest: JF6OnjPuOPXCpoyT4XWwQjKujG4=
+
+Name: assets/body_button_00003.tgd
+SHA1-Digest: X/WRnMelZnkkvWCBgUQR8oFQmPY=
+
+Name: assets/option_bg_00000.tgd
+SHA1-Digest: 1nndd/s43OVL3pXmZBNpj3Y3ELM=
+
+Name: assets/body_button_00011.tgd
+SHA1-Digest: ouiS4wxfrnXk/WyNHSNtLjnL3uQ=
+
+Name: assets/bg_00000.tgd
+SHA1-Digest: mXdClgw83MZyq6cnJoVEkmzdepE=
+
+Name: assets/ima_bg_00019.tgd
+SHA1-Digest: nyn/d1UdH/FdixFxM2w1xBvVJK4=
+
+Name: assets/tamagotchi_title_00000.tgd
+SHA1-Digest: aElulJ3ZyFFUuGQccB9nSvOe0a0=
+
+Name: assets/gallery_imabg_00019.tgd
+SHA1-Digest: hPaloiT2qo509f5hl3Y7+AvuE4k=
+
+Name: assets/manual_00005.tgd
+SHA1-Digest: 2HkdNZ9/jCA8j+VE1aZH8Qjt2jA=
+
+Name: assets/seg_icon_00001.tgd
+SHA1-Digest: g6xdnJbx8BC9YjhEXhlM0Z1nk8E=
+
+Name: assets/details_Chara_00010.tgd
+SHA1-Digest: DlHMluYYAKTDgKlcLnHsBuJqpdI=
+
+Name: assets/option_title_00000.tgd
+SHA1-Digest: 0J00ywkXuFnc4e6yZWVBiriryhE=
+
+Name: assets/gallery_botan_00000.tgd
+SHA1-Digest: MMK+Rm1EkRRTJd7b2UPVPMXhmn8=
+
+Name: assets/ima_bg_00007.tgd
+SHA1-Digest: EzLo5qc/HWxq+zfdIjl5Z3cAqd0=
+
+Name: assets/tc_game_mg1_help_dialog_btn.csv
+SHA1-Digest: YfJs0OSOj//optW0we51XZQVlDs=
+
+Name: assets/details_name_00005.tgd
+SHA1-Digest: ifqbByE3jdCZcaJCIAJDl1oVSp8=
+
+Name: assets/details_Chara_00009.tgd
+SHA1-Digest: jdg0wszi0ASIAJb2ZgjK/J/wU60=
+
+Name: assets/gallery_imabg_00007.tgd
+SHA1-Digest: GB3rml5WCALcPSQ2uDFwOT1iZOo=
+
+Name: assets/tutorial_00008.tgd
+SHA1-Digest: tg4sItW+9PN4+uagKa3vmulhDt4=
+
+Name: assets/dialog_agreement_00000.tgd
+SHA1-Digest: M5S4t/luHqbkE81s9tpSOV3VREo=
+
+Name: assets/menu_icon_00000.tgd
+SHA1-Digest: tLW8UUd+akYYJPXc28pjrYJ9iFY=
+
+Name: assets/sound_se/yobidashi
+SHA1-Digest: tqcWl55hVOZzCXxDsopaNgv6flg=
+
+Name: assets/tc_game_mg1_btn.csv
+SHA1-Digest: cHwNU4XMHkb1GAStgmgQo1zj1jo=
+
+Name: assets/ctc_char00_01.tgd
+SHA1-Digest: HiAiFSkDJXAbWKdFlpT5EcgCUZE=
+
+Name: assets/ctc_char02_01.tgd
+SHA1-Digest: E3J6v3n6qR13DZhJtdHWRw5sdMc=
+
+Name: assets/option_botan_00000.tgd
+SHA1-Digest: hLg99p8xEZAeu85LcNB9lpBQ3Ng=
+
+Name: assets/sound_bgm/title
+SHA1-Digest: /07qvnKs0+w+cRM198ViEMLOKyA=
+
+Name: assets/Icon.tgd
+SHA1-Digest: bouzkT347u5TWBHhToYGyEPXynU=
+
+Name: assets/gallery_imabg_00000.tgd
+SHA1-Digest: dknHcCytRHK4VFwR3lqufYwMMSs=
+
+Name: res/layout/sample_game.xml
+SHA1-Digest: KV+oM4EtjFaL6CyyaDbIoW0n9aU=
+
+Name: assets/back_00000.tgd
+SHA1-Digest: jf3kApU81p/bR+x5ZD6ecnfUX6w=
+
+Name: assets/details_name_10014.tgd
+SHA1-Digest: WVdqKnM24cuW+7E/AhCMO6PTAmg=
+
+Name: assets/sound_se/shibou
+SHA1-Digest: +diyAfF7dlIGGndRlS1nknnnjw8=
+
+Name: assets/tc_title_button.tgd
+SHA1-Digest: GyzeWGmAcE7beZ9S2IGXXWLshq0=
+
+Name: assets/ima_bg_00012.tgd
+SHA1-Digest: u75cuEbci17Rp3cKcDGmhr0kvA4=
+
+Name: assets/title_adfree_00000.tgd
+SHA1-Digest: 0PCbTIO2AFisnalVCMPTVe7MYrA=
+
+Name: assets/seg_00000.tgd
+SHA1-Digest: Vq0gHFBfrxrA9+1OcymLe7NOn/4=
+
+Name: assets/details_name_10003.tgd
+SHA1-Digest: ENv4Z1EUkKmeqxWwE1EeqgGr0II=
+
+Name: assets/bng_logo_00000.tgd
+SHA1-Digest: Ua7m/7n7KYHLaFBFm7+cc9NXjKw=
+
+Name: assets/gallery_tamagotchi_00000.tgd
+SHA1-Digest: FPeGZdOkSiUFr7ikX4BlwALqhUM=
+
+Name: assets/tutorial_00000.tgd
+SHA1-Digest: VRGjBUq4L6YSaU57gbLDb6CUMio=
+
+Name: assets/ctc_char03_00.tgd
+SHA1-Digest: 68/uIbojFO8aI0G6mY7ytOJ/2mM=
+
+Name: assets/details_name_00009.tgd
+SHA1-Digest: OYKhmD9oq56c/GvwONDQ0D9GHgA=
+
+Name: assets/gallery_title_00000.tgd
+SHA1-Digest: AedtnuFzI60scwmsxu7xFXA80DI=
+
+Name: assets/manual_00008.tgd
+SHA1-Digest: T7rSDqYOhntKTUARWoHF7f1PcvI=
+
+Name: assets/sound_se/gameplay_se
+SHA1-Digest: MSFF2pXikvPiAQ7TQohfy8vxi+Q=
+
+Name: assets/details_name_10011.tgd
+SHA1-Digest: 7dWySAYpR8viXJV+wgqXBOnR4ao=
+
+Name: assets/option_base_00000.tgd
+SHA1-Digest: o/jJdwkbJqvg/WcmSjVDbPrGuYA=
+
+Name: assets/help_botan_00001.tgd
+SHA1-Digest: u/sYx/EhGXM5qUfo8OOAx7cq4LI=
+
+Name: assets/gallery_t_body_00003.tgd
+SHA1-Digest: JoMBk3o8UFT+dBJnxxHGXNUnOLg=
+
+Name: assets/ctc_char07_00.tgd
+SHA1-Digest: DEpx4JgKzRDzDid+/1tZVJGLWY0=
+
+Name: assets/gallery_imabg_00011.tgd
+SHA1-Digest: 2kUtYcxziFH6rrGO57DcUOrGup0=
+
+Name: assets/gallery_imabg_00020.tgd
+SHA1-Digest: dpHLjRU0OllvkjHD3ybfcRTHiyY=
+
+Name: assets/title_license_00000.tgd
+SHA1-Digest: aIepQogDE0wpGXKBZb1SggZjRwQ=
+
+Name: assets/css/static.css
+SHA1-Digest: plt3lD8DlFU+4z3Fg2Dk3mneccs=
+
+Name: assets/gallery_t_body_00006.tgd
+SHA1-Digest: IYxB/P5dQbkq2FyZCQHzKiy60GQ=
+
+Name: assets/seg_icon_00005.tgd
+SHA1-Digest: DJvKFvmuCRjmrozvvjY0hKmWYVA=
+
+Name: assets/body_button_00007.tgd
+SHA1-Digest: dLJXdcdy9VRkulfUB+Y6dpzOZfs=
+
+Name: assets/manual_00001.tgd
+SHA1-Digest: OrDpEkipGw/iSgQQvFfKpCBY2cU=
+
+Name: assets/details_botan_00002.tgd
+SHA1-Digest: jcG4dR2PnucF9aeVqe4Fvf47PrI=
+
+Name: assets/details_name_10022.tgd
+SHA1-Digest: UM/bW25TX605ExPZW+V8WlNnGpE=
+
+Name: assets/manual_00010.tgd
+SHA1-Digest: KWKKnp+Xb+CtQJ5YV3lB0jHmdeU=
+
+Name: assets/menu_icon_00004.tgd
+SHA1-Digest: +gAW/OkE3YaPaCzNqYYniTIzjLo=
+
+Name: assets/ima_bg_00016.tgd
+SHA1-Digest: 7Gd8oQr9hAb4votNYUI3cF/cNcA=
+
+Name: assets/body_00006.tgd
+SHA1-Digest: iyYUCMnnxNfT5iXdyDEVeuMtT70=
+
+Name: assets/ima_bg_00003.tgd
+SHA1-Digest: iW/i0tmpwm6iwP0220VUaY/Ws7A=
+
+Name: assets/details_Chara_00005.tgd
+SHA1-Digest: 5e8fQnoN9HqPBAJK9kHDaSYVh+0=
+
+Name: assets/ima_bg_00020.tgd
+SHA1-Digest: YofjepPGIT/O/E2tqAACOsqLF5Q=
+
+Name: assets/gallery_imabg_00016.tgd
+SHA1-Digest: pa9Re9gYIAiiahpZtwOvhmW5oxQ=
+
+Name: assets/body_00010.tgd
+SHA1-Digest: mCsWOZus3V5nF2J6zV74NoqXAEc=
+
+Name: assets/gallery_imabg_00003.tgd
+SHA1-Digest: kyw1V2Uv5Nsaf4Xyznd/eDlfklU=
+
+Name: assets/details_name_00002.tgd
+SHA1-Digest: mAvTu7oHPj0pjpkJjuT1g14A/8g=
+
+Name: assets/reset_00000.tgd
+SHA1-Digest: 7hGxR2uh+RLiA0Fft9wXwGvm5ls=
+
+Name: assets/title_botan_00000.tgd
+SHA1-Digest: EIrMHA+6yLX7tv0co5px4p/exEU=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: kdIil/wHIsfEYtW6k/f8H4Aud8s=
+
+Name: assets/details_name_10018.tgd
+SHA1-Digest: y9xNVqYD2mh6MhuumMXY8SdrSPg=
+
+Name: assets/Tama2Movie_animdata_c.head
+SHA1-Digest: shd3ho5LNnlprY8kKRuhJOHdKp8=
+
+Name: assets/tc_option_btn.csv
+SHA1-Digest: gN/MBEr7slcPwaXTB86MtdH38ck=
+
+Name: assets/help_common_panel_00001.tgd
+SHA1-Digest: 0sIF/SVIhN4kK3ND5G4WNOM+bu4=
+
+Name: assets/tc_agreement_dialog_btn.csv
+SHA1-Digest: nKwE/FbiHSuXoRN8sfkCf5HAo2s=
+
+Name: assets/tutorial_00005.tgd
+SHA1-Digest: Mw8QxqThm/BZXO2d0miZUENHARg=
+
+Name: assets/body_button_00004.tgd
+SHA1-Digest: osl5TUsWBYttOfookLH76VErnSA=
+
+Name: assets/details_number_00001.tgd
+SHA1-Digest: QD0MgabrMQHxaPlzCHqsUzPH4t0=
+
+Name: assets/seg_icon_00000.tgd
+SHA1-Digest: UOXCCxUSRjQPgSPyTqOnvHQsz6Q=
+
+Name: assets/Default.tgd
+SHA1-Digest: QCWsPBXl4VZyTt1vptH7yvTV3Lo=
+
+Name: assets/Tama2Movie_scratchpad_0.scr
+SHA1-Digest: lxeHj1At0+7LeFAzPCCmIVtaDhk=
+
+Name: assets/option_reset_00000.tgd
+SHA1-Digest: ThKUF8SBs9Ik04LLHeRFvZBm5Ow=
+
+Name: assets/gallery_imabg_00018.tgd
+SHA1-Digest: sFmGWuG1HEJFYcQsgsm7cQeuCUw=
+
+Name: assets/body_00009.tgd
+SHA1-Digest: OAJNqTUGA7QD8+nZzsglOEeR04Y=
+
+Name: assets/details_Chara_00001.tgd
+SHA1-Digest: Y0xTbLKAu4cpsFwZCn+r/XZtxaw=
+
+Name: assets/details_name_10007.tgd
+SHA1-Digest: ESs/yOIIb1/TD/+CGVfdoK8+ixY=
+
+Name: assets/details_name_10017.tgd
+SHA1-Digest: UqC883jhxdugyClXojjYqkHotjU=
+
+Name: assets/body_00000.tgd
+SHA1-Digest: 1JUgRjbwkc+VGI3/qG6fUAa5AdM=
+
+Name: assets/details_name_00004.tgd
+SHA1-Digest: vcg0Eo0HK056+vuuSf0UZZka3AY=
+
+Name: assets/gallery_t_botan_00002.tgd
+SHA1-Digest: HPXhxs1OdmLOiVpVFVjB6B7BEhU=
+
+Name: assets/tutorial_00007.tgd
+SHA1-Digest: YmC/i616Uww97DNwHQVtDBg/hGY=
+
+Name: assets/manual_00002.tgd
+SHA1-Digest: m1leKpntAfYgr0vSwb7s3YFj+Vg=
+
+Name: assets/sound_se/reset
+SHA1-Digest: so/w0vcyxfjxfNftrIB+qCbhSOg=
+
+Name: assets/agreement_title_00000.tgd
+SHA1-Digest: Jbq0fEI210cdpUfRmN/9ntENiqs=
+
+Name: assets/Icon@2x.tgd
+SHA1-Digest: tYoeFND/OfLC+jkUVacs0GWj2EU=
+
+Name: assets/details_name_10013.tgd
+SHA1-Digest: o2Fx1LlPKhIbetNMkCArewfStZ4=
+
+Name: assets/gallery_imabg_00001.tgd
+SHA1-Digest: IkVkP05G/fxtWjxz75AwXEuWvgQ=
+
+Name: assets/title_bg_00000.tgd
+SHA1-Digest: BJ/Ewsvjh8Lc4WXydBO5rVPP92s=
+
+Name: assets/ima_bg_00011.tgd
+SHA1-Digest: 7K0iRMvh2FoMMMn0++MbTxAh7SI=
+
+Name: assets/new_00000.tgd
+SHA1-Digest: UktntggsNGAvyhlVlHcyEjrA2OQ=
+
+Name: assets/number_texture.tgd
+SHA1-Digest: UD53R04j2XfS/W0/OZ7Boqyhi/Y=
+
+Name: assets/tc_library_bodysel_btn.csv
+SHA1-Digest: Lv4TRFiSWM9/+NDkhQsduGomJbM=
+
+Name: assets/tc_library_dialog_btn.csv
+SHA1-Digest: 5gnEnWnN7FS1q/KLknR4XNrHNTA=
+
+Name: assets/tc_game_retro_btn.csv
+SHA1-Digest: QaI3HKQ3X6vfR0bdr629T4qlLpI=
+
+Name: assets/details_name_00010.tgd
+SHA1-Digest: N9nId3EHDEG8fHx5YnPVhqTKKoA=
+
+Name: assets/details_name_10002.tgd
+SHA1-Digest: k4oNF7hlQLyfsSt9DYi2TKmOuEU=
+
+Name: assets/sound_se/gameend
+SHA1-Digest: rYUOQIKNH+tX9m88nI8uO3kJcmo=
+
+Name: assets/body_button_00000.tgd
+SHA1-Digest: 4oTk1Wm2MDFh0dgXG7J1svLObvU=
+
+Name: assets/ima_bg_00008.tgd
+SHA1-Digest: uYQTsQMSSGsavtBjetIqsWPzcRw=
+
+Name: assets/tutorial_00001.tgd
+SHA1-Digest: eQn6w11iQqyga3nr6GVf13vc4wQ=
+
+Name: assets/index.html
+SHA1-Digest: 3eoB/EA+EuNxIbsOTx3wvCleMpM=
+
+Name: assets/title_touch_00000.tgd
+SHA1-Digest: 0DY/yFls+Xv9cTb0kQlMCyavSzU=
+
+Name: assets/menu_icon_00001.tgd
+SHA1-Digest: v88o/UuRRxpCkjzcW4fv7MoL5W8=
+
+Name: assets/body_button_00009.tgd
+SHA1-Digest: +I8jfo/jtUL83j0YRLJYw6VgYA8=
+
+Name: assets/ctc_char00_00.tgd
+SHA1-Digest: fU3VgeKNAQecYr/HAWa2hxiwsLs=
+
+Name: assets/seg_icon_00004.tgd
+SHA1-Digest: 6nlan2f5Bh9yhSAmtRff+Hw5hF8=
+
+Name: assets/seg_line_00000.tgd
+SHA1-Digest: mYaB0I10KIxGvtR0xS59GtADA6s=
+
+Name: assets/tc_tutorial_btn.csv
+SHA1-Digest: ILn5Zq1m1IhXSzDT3pbLG1BOw8A=
+
+Name: assets/gallery_imabg_00012.tgd
+SHA1-Digest: v+txCW2X2o4fMJiHv7BwQf5609k=
+
+Name: assets/sound_se/okori
+SHA1-Digest: dkpti+Ma3Ua+d7DfqgSbkmqWRjM=
+
+Name: assets/body_button_00008.tgd
+SHA1-Digest: 4FatmgFsx646YYWdl6aepOYe0Nk=
+
+Name: assets/tc_help_btn.csv
+SHA1-Digest: 1X3J2Ote2KTg0UUmuK4nrEHyMlQ=
+
+Name: assets/ctc_char05_00.tgd
+SHA1-Digest: DIzQbzna1PZXwiinr3CffijuXaY=
+
+Name: assets/tutorial_00002.tgd
+SHA1-Digest: ITtlgIE/XUEKoF+MiYAqeI+PGxw=
+
+Name: assets/details_Chara_00006.tgd
+SHA1-Digest: 0GbOZojy+JkmoX3g1TasCHu04pA=
+
+Name: assets/sound_se/wagamama_shitsuke
+SHA1-Digest: eaYiIVWtrAT/gIdod0nX/X73wX0=
+
+Name: res/layout/sample_game_portrait.xml
+SHA1-Digest: ixfUqhYkrpNbkCl7fN6oADg6WaY=
+
+Name: assets/body_00005.tgd
+SHA1-Digest: ngSztSqBwl4j+NZ4hnT+PUhbqTI=
+
+Name: assets/gallery_imabg_00006.tgd
+SHA1-Digest: H/nHjTFO9t1aY9jT/6L1gxzSlkk=
+
+Name: assets/sound_bgm/yorokobi.wav
+SHA1-Digest: XgX7QI5QNrY4/Gu7LiaqLNp/4Pc=
+
+Name: assets/sound_se/sousa
+SHA1-Digest: uNNmo6dQ3MdNhh27whHTgluNT+g=
+
+Name: assets/heart.tgd
+SHA1-Digest: nVDO+zIMzvzjlx3xZpK5V2sGHT0=
+
+Name: assets/gallery_imabg_00002.tgd
+SHA1-Digest: UIe+Uywwf029BuA8ev5vMMnWwqM=
+
+Name: assets/gallery_t_body_00002.tgd
+SHA1-Digest: Ut4g36kDqynbEQgmM901fbvWSNw=
+
+Name: assets/details_name_10012.tgd
+SHA1-Digest: TNNjTHkyTmpuQgAdbtIJ4NzqfB0=
+
+Name: assets/details_name_00008.tgd
+SHA1-Digest: pVe16ij7/3KWb15tMHaSwwMQHxM=
+
+Name: assets/body_button_00010.tgd
+SHA1-Digest: DJ5wkQAfMxkUDQP9cVlyxHe0NII=
+
+Name: assets/gallery_t_body_00007.tgd
+SHA1-Digest: lP7rDuw/K62h4ZlRvee+kMElxFA=
+
+Name: assets/Tama2Movie_rect_c2.bin
+SHA1-Digest: 6+XYKgQLh/K6r2gnlB8Y4c51VT0=
+
+Name: assets/details_total_00000.tgd
+SHA1-Digest: B6pxlvHS3gQX06n90G6bh0If5h8=
+
+Name: assets/dialog_botan_00001.tgd
+SHA1-Digest: OlKxh976nscPm+q4zPbhuEmJFNU=
+
+Name: assets/ima_bg_00015.tgd
+SHA1-Digest: LpczUtipC21MjeWgZBrlVtl2Oj4=
+
+Name: assets/gallery_bg_00000.tgd
+SHA1-Digest: GV9xGZ5ft0Ew46OfRt7y9z+YOiQ=
+
+Name: assets/seg_botan_00000.tgd
+SHA1-Digest: EnyE2bRr2N6sYjS9RD+Gzac3Rbo=
+
+Name: assets/guide_title_00000.tgd
+SHA1-Digest: 5EljWGmhZDcatFpmhdRU7Hz6Pjc=
+
+Name: assets/ima_bg_00004.tgd
+SHA1-Digest: BP50kHCU5C4t8eciLlEbAQv319s=
+
+Name: assets/seg_00001.tgd
+SHA1-Digest: AVCJ3YnvvU9n5K+e0GnifmPRcEQ=
+
+Name: assets/details_name_10006.tgd
+SHA1-Digest: 4qgXm8QM031Mx2kBMMV73GWwFbA=
+
+Name: assets/css/h1_menu.png
+SHA1-Digest: 5lkTttAJadXj1tA5A595OoY0gq4=
+
+Name: classes.dex
+SHA1-Digest: MLiKX9gr6K2V6duZUq8L8n9agmg=
+
+Name: assets/details_name_10023.tgd
+SHA1-Digest: onKSZsZRPp+6zVipvqsollejHSg=
+
+Name: assets/body_00011.tgd
+SHA1-Digest: efqTLI92ASzp+Pa0dXFM+WSmr3Q=
+
+Name: assets/gallery_imabg_00017.tgd
+SHA1-Digest: zb5IwES+VPF3RX7soIIfqnmu6Fs=
+
+Name: assets/manual_00007.tgd
+SHA1-Digest: YNiZMigY9DWic5hCf/JG4ZsqLZQ=
+

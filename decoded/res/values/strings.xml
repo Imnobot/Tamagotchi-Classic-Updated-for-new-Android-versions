@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SDKSampleActivity!</string>
+    <string name="app_name">Tamagotchi Classic</string>
+    <string name="facebook">Post to facebook</string>
+    <string name="storage">Save to gallery</string>
+    <string name="confirm_facebook">Post picture to facebook?</string>
+    <string name="confirm_storage">Save picture to gallery?</string>
+    <string name="sns_selector">Picture</string>
+    <string name="app_id">310617352387559</string>
+    <string name="dialog_YES">Yes</string>
+    <string name="dialog_NO">No</string>
+    <string name="dialog_Back_Title">Back to home.</string>
+    <string name="dialog_End_App">Exit from the game.</string>
+    <string name="GochCall_TitleBarText">Tamagotchi is calling you!</string>
+    <string name="GochCall_ContentTitle">Tamagotchi</string>
+    <string name="GochCall_ContentText">Tamagotchi is calling you!</string>
+    <string name="dialog_CLOSE">Close</string>
+    <string name="report_storage">Saved picture to gallery.</string>
+    <string name="report_storage_NG">Add to photo failed.</string>
+    <string name="facebook_caption1">Playing Tamagotchi App.</string>
+    <string name="facebook_caption2">Join the fun! http://bit.ly/TamaApp</string>
+    <string name="thankyou_for_upgrade">Your payment has been successfully processed.</string>
+    <string name="report_facebook">Posted picture to facebook.</string>
+    <string name="network_error">Check your network settings.</string>
+    <string name="facebook_input_title">Please input caption.</string>
+    <string name="dialog_CANCEL">Cancel</string>
+    <string name="l_mes">Failed</string>
+    <string name="l_retry">Retry</string>
+    <string name="l_end">End</string>
+</resources>
