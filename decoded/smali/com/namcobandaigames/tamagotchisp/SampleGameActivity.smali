@@ -2938,6 +2938,8 @@
 
     invoke-static {p0}, Lcom/namcobandaigames/tamagotchisp/SampleGameActivity;->unlockAllSave(Landroid/content/Context;)V
 
+    invoke-static {p0}, Lcom/namcobandaigames/tamagotchisp/TamagotchiWidgetProvider;->updateAll(Landroid/content/Context;)V
+
     invoke-direct {p0}, Lcom/namcobandaigames/tamagotchisp/SampleGameActivity;->F()V
 
     :try_start_cs
@@ -3101,6 +3103,8 @@
     invoke-static {v0, v1}, Lcom/namcobandaigames/tamagotchisp/ai;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     invoke-static {}, Lcom/namcobandaigames/tamagotchisp/SampleGameNatives;->GameTerm()V
+
+    invoke-static {p0}, Lcom/namcobandaigames/tamagotchisp/TamagotchiWidgetProvider;->updateAll(Landroid/content/Context;)V
 
     const-string v0, "TamagotchiMainActivity"
 

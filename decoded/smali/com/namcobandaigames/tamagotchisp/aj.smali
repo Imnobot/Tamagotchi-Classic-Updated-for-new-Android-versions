@@ -142,9 +142,7 @@
 .end method
 
 .method public static a(Landroid/content/Context;Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)V
-    .locals 9
-
-    const-wide/16 v6, 0x12c
+    .locals 8
 
     const-string v0, "notification"
 
@@ -154,6 +152,36 @@
 
     check-cast v0, Landroid/app/NotificationManager;
 
+    sget v1, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v2, 0xb
+
+    if-ge v1, v2, :cond_legacy_skip
+
+    invoke-static/range {p0 .. p6}, Lcom/namcobandaigames/tamagotchisp/NotificationCompatLegacy;->show(Landroid/content/Context;Ljava/lang/Class;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;J)V
+
+    return-void
+
+    :cond_legacy_skip
+    sget v2, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v3, 0x1a
+
+    if-lt v2, v3, :cond_ch
+
+    new-instance v2, Landroid/app/NotificationChannel;
+
+    const-string v3, "tama_alarm"
+
+    const-string v4, "Tamagotchi"
+
+    const/4 v5, 0x4
+
+    invoke-direct {v2, v3, v4, v5}, Landroid/app/NotificationChannel;-><init>(Ljava/lang/String;Ljava/lang/CharSequence;I)V
+
+    invoke-virtual {v0, v2}, Landroid/app/NotificationManager;->createNotificationChannel(Landroid/app/NotificationChannel;)V
+
+    :cond_ch
     const-wide/16 v2, 0x0
 
     cmp-long v1, p5, v2
@@ -165,11 +193,51 @@
     move-result-wide p5
 
     :cond_0
-    new-instance v1, Landroid/app/Notification;
+    new-instance v1, Landroid/app/Notification$Builder;
+
+    invoke-direct {v1, p0}, Landroid/app/Notification$Builder;-><init>(Landroid/content/Context;)V
 
     const/high16 v2, 0x7f020000
 
-    invoke-direct {v1, v2, p2, p5, p6}, Landroid/app/Notification;-><init>(ILjava/lang/CharSequence;J)V
+    invoke-virtual {v1, v2}, Landroid/app/Notification$Builder;->setSmallIcon(I)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    invoke-virtual {v1, p2}, Landroid/app/Notification$Builder;->setTicker(Ljava/lang/CharSequence;)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    invoke-virtual {v1, p3}, Landroid/app/Notification$Builder;->setContentTitle(Ljava/lang/CharSequence;)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    invoke-virtual {v1, p4}, Landroid/app/Notification$Builder;->setContentText(Ljava/lang/CharSequence;)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    invoke-virtual {v1, p5, p6}, Landroid/app/Notification$Builder;->setWhen(J)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    sget v2, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v3, 0x10
+
+    if-lt v2, v3, :cond_prio_skip
+
+    const/4 v2, 0x2
+
+    invoke-virtual {v1, v2}, Landroid/app/Notification$Builder;->setPriority(I)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    :cond_prio_skip
+
+    const/4 v2, -0x1
+
+    invoke-virtual {v1, v2}, Landroid/app/Notification$Builder;->setDefaults(I)Landroid/app/Notification$Builder;
+
+    move-result-object v1
 
     const/4 v2, 0x4
 
@@ -177,7 +245,9 @@
 
     const/4 v3, 0x1
 
-    aput-wide v6, v2, v3
+    const-wide/16 v4, 0x12c
+
+    aput-wide v4, v2, v3
 
     const/4 v3, 0x2
 
@@ -187,9 +257,13 @@
 
     const/4 v3, 0x3
 
-    aput-wide v6, v2, v3
+    const-wide/16 v4, 0x12c
 
-    iput-object v2, v1, Landroid/app/Notification;->vibrate:[J
+    aput-wide v4, v2, v3
+
+    invoke-virtual {v1, v2}, Landroid/app/Notification$Builder;->setVibrate([J)Landroid/app/Notification$Builder;
+
+    move-result-object v1
 
     new-instance v2, Landroid/content/Intent;
 
@@ -203,7 +277,26 @@
 
     move-result-object v2
 
-    invoke-virtual {v1, p0, p3, p4, v2}, Landroid/app/Notification;->setLatestEventInfo(Landroid/content/Context;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Landroid/app/PendingIntent;)V
+    invoke-virtual {v1, v2}, Landroid/app/Notification$Builder;->setContentIntent(Landroid/app/PendingIntent;)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    sget v2, Landroid/os/Build$VERSION;->SDK_INT:I
+
+    const/16 v3, 0x1a
+
+    if-lt v2, v3, :cond_ch2
+
+    const-string v3, "tama_alarm"
+
+    invoke-virtual {v1, v3}, Landroid/app/Notification$Builder;->setChannelId(Ljava/lang/String;)Landroid/app/Notification$Builder;
+
+    move-result-object v1
+
+    :cond_ch2
+    invoke-virtual {v1}, Landroid/app/Notification$Builder;->getNotification()Landroid/app/Notification;
+
+    move-result-object v1
 
     const v2, 0x7f040001
 

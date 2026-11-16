@@ -51,28 +51,36 @@
 
     invoke-static {v0, v1}, Lcom/namcobandaigames/tamagotchisp/ai;->d(Ljava/lang/String;Ljava/lang/String;)I
 
-    new-instance v0, Landroid/content/Intent;
+    const/4 v0, 0x0
 
-    const-class v1, Lcom/namcobandaigames/tamagotchisp/tmgc/TMGC_AlarmService;
+    sget v1, Landroid/os/Build$VERSION;->SDK_INT:I
 
-    invoke-direct {v0, p1, v1}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
+    const/16 v2, 0xb
 
-    :try_start_0
-    invoke-virtual {p1, v0}, Landroid/content/Context;->startService(Landroid/content/Intent;)Landroid/content/ComponentName;
-    :try_end_0
-    .catch Ljava/lang/RuntimeException; {:try_start_0 .. :try_end_0} :catch_0
+    if-lt v1, v2, :cond_go_skip
 
-    goto :goto_end
+    invoke-virtual {p0}, Landroid/content/BroadcastReceiver;->goAsync()Landroid/content/BroadcastReceiver$PendingResult;
+    move-result-object v0
 
-    :catch_0
-    move-exception v1
+    :cond_go_skip
 
-    const-string v2, "mvAlarmReceiver"
+    invoke-virtual {p1}, Landroid/content/Context;->getApplicationContext()Landroid/content/Context;
+    move-result-object v1
 
-    const-string v3, "startService blocked while in background, skipping alarm tick"
+    if-nez v1, :cond_0
 
-    invoke-static {v2, v3}, Lcom/namcobandaigames/tamagotchisp/ai;->e(Ljava/lang/String;Ljava/lang/String;)I
+    move-object v1, p1
 
-    :goto_end
+    :cond_0
+    new-instance v2, Ljava/lang/Thread;
+
+    new-instance v3, Lcom/namcobandaigames/tamagotchisp/TMCG_AlarmTask;
+
+    invoke-direct {v3, v1, v0}, Lcom/namcobandaigames/tamagotchisp/TMCG_AlarmTask;-><init>(Landroid/content/Context;Landroid/content/BroadcastReceiver$PendingResult;)V
+
+    invoke-direct {v2, v3}, Ljava/lang/Thread;-><init>(Ljava/lang/Runnable;)V
+
+    invoke-virtual {v2}, Ljava/lang/Thread;->start()V
+
     return-void
 .end method

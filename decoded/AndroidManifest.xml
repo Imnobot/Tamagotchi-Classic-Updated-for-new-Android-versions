@@ -11,6 +11,12 @@
         </activity>
         <receiver android:exported="false" android:name="com.namcobandaigames.tamagotchisp.mvAlarmReceiver"/>
         <service android:exported="false" android:name="com.namcobandaigames.tamagotchisp.tmgc.TMGC_AlarmService"/>
+        <receiver android:exported="true" android:name="com.namcobandaigames.tamagotchisp.TamagotchiWidgetProvider">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/tamagotchi_widget_info"/>
+        </receiver>
     </application>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
